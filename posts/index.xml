@@ -6,14 +6,19 @@
     <description>Recent content in Posts on 铖铖的小角落</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Feb 2026 06:34:18 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 20:00:00 +0800</lastBuildDate>
     <atom:link href="https://example.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>你好互联网</title>
+      <title>测试一下图片和音乐</title>
       <link>https://example.github.io/posts/hello/</link>
-      <pubDate>Sat, 07 Feb 2026 06:34:18 +0300</pubDate>
+      <pubDate>Fri, 06 Feb 2026 20:00:00 +0800</pubDate>
       <guid>https://example.github.io/posts/hello/</guid>
-      <description></description>
+      <description>&lt;p&gt;审美积累一下：&lt;/p&gt;
+&lt;p&gt;![审美积累一下](/img/kaka1.png)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;下面是一首最近在听的歌：&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
