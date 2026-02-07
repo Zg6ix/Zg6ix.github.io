@@ -15,9 +15,10 @@
       <guid>https://example.github.io/posts/hello/</guid>
       <description>&lt;p&gt;审美积累一下：&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;审美积累一下&#34; loading=&#34;lazy&#34; src=&#34;https://example.github.io/img/kaka1.png&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;https://example.github.io/img/kaka2.png&#34; width=&#34;45%&#34;&gt;
+&lt;img src=&#34;https://example.github.io/img/kaka3.png&#34; width=&#34;45%&#34;&gt;
 &lt;p&gt;下面是一首最近在听的歌：&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;audio controls src=&#34;https://example.github.io/music/song.mp3&#34;&gt;&lt;/audio&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
