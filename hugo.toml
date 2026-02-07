@@ -1,0 +1,9 @@
+baseURL = "https://example.github.io/"
+languageCode = "zh-cn"
+title = "铖铖的小角落"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
