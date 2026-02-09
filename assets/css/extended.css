@@ -1,14 +1,11 @@
-/* 导入 Google 字体 */
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
-
-
-/* ===== 标题样式 ===== */
+/* ===== 网站标题样式（必生效版）===== */
 .site-title {
-    font-size: 48px !important;
-    font-family: 'Great Vibes', cursive !important;
-    text-align: center;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 52px !important;
+    text-align: center !important;
     display: block;
     width: 100%;
+    letter-spacing: 2px;
 }
 
 
