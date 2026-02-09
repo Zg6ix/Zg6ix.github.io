@@ -21,7 +21,7 @@
 &lt;/div&gt;
 &lt;p&gt;下面是一首最近在听的歌：&lt;/p&gt;
 &lt;audio controls preload=&#34;metadata&#34; style=&#34;width:100%&#34;&gt;
-  &lt;source src=&#34;https://example.github.io/music/song.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.github.io/music/song1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;</description>
     </item>
   </channel>
