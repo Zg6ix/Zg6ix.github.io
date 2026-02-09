@@ -1,11 +1,6 @@
-/* ===== 网站标题样式（必生效版）===== */
-.site-title {
+header a {
     font-family: "Times New Roman", Times, serif !important;
     font-size: 52px !important;
-    text-align: center !important;
-    display: block;
-    width: 100%;
-    letter-spacing: 2px;
 }
 
 
