@@ -15,15 +15,9 @@
       <guid>https://example.github.io/posts/hello/</guid>
       <description>&lt;p&gt;审美积累一下：&lt;/p&gt;
 &lt;div style=&#34;display:flex; gap:12px;&#34;&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka1.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka2.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka3.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
+&lt;img src=&#34;https://example.github.io/img/kaka1.png&#34; style=&#34;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&#34;&gt;
+  &lt;img src=&#34;https://example.github.io/img/kaka2.png&#34; style=&#34;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&#34;&gt;
+  &lt;img src=&#34;https://example.github.io/img/kaka3.png&#34; style=&#34;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;下面是一首最近在听的歌：&lt;/p&gt;
 &lt;div class=&#34;music-player&#34;&gt;

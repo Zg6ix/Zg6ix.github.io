@@ -1,11 +1,16 @@
-/* ===== 标题居中放大 ===== */
-.logo a {
+/* 导入 Google 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+/* ===== 标题样式 ===== */
+.site-title {
     font-size: 48px !important;
-    font-family: "Vladimir Script", cursive;
+    font-family: 'Great Vibes', cursive !important;
     text-align: center;
     display: block;
     width: 100%;
 }
+
 
 /* ===== 侧边音乐播放器 ===== */
 .music-player {
