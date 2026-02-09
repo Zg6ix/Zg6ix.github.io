@@ -9,17 +9,23 @@ draft: false
 
 <div style="display:flex; gap:12px;">
 
-  <img src="/img/kaka1.png" style="width:33%; border-radius:8px;">
-  <img src="/img/kaka2.png" style="width:33%; border-radius:8px;">
-  <img src="/img/kaka3.png" style="width:33%; border-radius:8px;">
+  <img src="/img/kaka1.png" style="width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);"
+>
+  <img src="/img/kaka2.png" style="width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);"
+>
+  <img src="/img/kaka3.png" style="width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);"
+>
 
 </div>
 
 下面是一首最近在听的歌：
 
-<audio controls preload="metadata" style="width:100%">
-  <source src="/music/song1.mp3" type="audio/mpeg">
-</audio>
+<div class="music-player">
+  <audio controls preload="metadata">
+    <source src="/music/song.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 
 
 

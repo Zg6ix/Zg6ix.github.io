@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 铖铖的小角落</title>
+    <title>Posts on chengcheng の Web</title>
     <link>https://example.github.io/posts/</link>
-    <description>Recent content in Posts on 铖铖的小角落</description>
+    <description>Recent content in Posts on chengcheng の Web</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 06 Feb 2026 20:00:00 +0800</lastBuildDate>
@@ -15,14 +15,22 @@
       <guid>https://example.github.io/posts/hello/</guid>
       <description>&lt;p&gt;审美积累一下：&lt;/p&gt;
 &lt;div style=&#34;display:flex; gap:12px;&#34;&gt;
-  &lt;img src=&#34;https://example.github.io/img/kaka1.png&#34; style=&#34;width:33%; border-radius:8px;&#34;&gt;
-  &lt;img src=&#34;https://example.github.io/img/kaka2.png&#34; style=&#34;width:33%; border-radius:8px;&#34;&gt;
-  &lt;img src=&#34;https://example.github.io/img/kaka3.png&#34; style=&#34;width:33%; border-radius:8px;&#34;&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka1.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka2.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;/img/kaka3.png&amp;quot; style=&amp;ldquo;width:33%; border-radius:10px; border:3px solid #111; box-shadow:0 4px 12px rgba(0,0,0,.2);&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;p&gt;下面是一首最近在听的歌：&lt;/p&gt;
-&lt;audio controls preload=&#34;metadata&#34; style=&#34;width:100%&#34;&gt;
-  &lt;source src=&#34;https://example.github.io/music/song1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-&lt;/audio&gt;</description>
+&lt;div class=&#34;music-player&#34;&gt;
+  &lt;audio controls preload=&#34;metadata&#34;&gt;
+    &lt;source src=&#34;https://example.github.io/music/song.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;/audio&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
